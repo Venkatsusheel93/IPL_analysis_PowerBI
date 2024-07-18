@@ -1,3 +1,0 @@
-<iframe title="IPL Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjVhMGRhNjUtYjdlZS00ZWRlLWFmM2YtOWViNGVmMDc4N2NkIiwidCI6IjY5Y2NmZWQzLTdiMDctNDI5NS04MTBmLThkMzIwNzg1MTY5OSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-
-https://app.powerbi.com/view?r=eyJrIjoiZjVhMGRhNjUtYjdlZS00ZWRlLWFmM2YtOWViNGVmMDc4N2NkIiwidCI6IjY5Y2NmZWQzLTdiMDctNDI5NS04MTBmLThkMzIwNzg1MTY5OSIsImMiOjEwfQ%3D%3D
